@@ -1,0 +1,6 @@
+﻿  agill292_lab04_q2.cpp
+c:\users\amanp\onedrive\documents\visual studio 2015\projects\es1036\lab04\agill292_lab04_q2\agill292_lab04_q2\agill292_lab04_q2.cpp(17): warning C4101: 'sin': unreferenced local variable
+c:\users\amanp\onedrive\documents\visual studio 2015\projects\es1036\lab04\agill292_lab04_q2\agill292_lab04_q2\agill292_lab04_q2.cpp(17): warning C4101: 'power': unreferenced local variable
+c:\users\amanp\onedrive\documents\visual studio 2015\projects\es1036\lab04\agill292_lab04_q2\agill292_lab04_q2\agill292_lab04_q2.cpp(17): warning C4101: 'result4': unreferenced local variable
+  agill292_lab04_q2.vcxproj -> C:\Users\amanp\OneDrive\Documents\Visual Studio 2015\Projects\ES1036\lab04\agill292_lab04_q2\Debug\agill292_lab04_q2.exe
+  agill292_lab04_q2.vcxproj -> C:\Users\amanp\OneDrive\Documents\Visual Studio 2015\Projects\ES1036\lab04\agill292_lab04_q2\Debug\agill292_lab04_q2.pdb (Full PDB)
